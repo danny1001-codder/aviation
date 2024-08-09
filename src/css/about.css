@@ -1,0 +1,7 @@
+img{
+    height: 60vh;
+} 
+
+.about-container{
+    display: flex;
+}
